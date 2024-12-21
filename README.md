@@ -1,1 +1,1 @@
-# objec-recognition-in-UAV
+# object-recognition-in-UAV
