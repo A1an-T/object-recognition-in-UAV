@@ -1,1 +1,2 @@
 # object-recognition-in-UAV
+The project uses Resnet18 combined with a binary classification head to complete the UAV image recognition task, using pytorch framework, the stochastic gradient descent is used to train the network, and the learning rate decay is used to reduce its overfitting, and finally the training is in The accuracy rate of the practice set is close to 100%, and the accuracy rate in the test set is 98.91%
